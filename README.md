@@ -4,3 +4,5 @@
 
 ### Goals
 - Be able to pass 6502 assembly language to the 6502 emulator program and get a result!
+- Learn about a very simple processor architecture
+- Practice C++
